@@ -1,2 +1,7 @@
-# Scrum_Gestao_e_Desenvolvimento_Agil_de_Projetos_Online
-Curso Scrum - Gestão e Desenvolvimento Ágil de Projetos (online) na Impacta
+# Scrum - Gestão e Desenvolvimento Ágil de Projetos (online) 🤖🎲⚙️🤯👨🏻‍💻
+## Curso Scrum - Gestão e Desenvolvimento Ágil de Projetos (online) na [Impacta](https://www.impacta.com.br/cursos/scrum-gestao-e-desenvolvimento-agil-de-projetos-online)
+#### 💻 Temas abordados durante o curso foram: 🚀
+
+
+
+Link para o curso: [Impacta](https://www.impacta.com.br/cursos/scrum-gestao-e-desenvolvimento-agil-de-projetos-online)
