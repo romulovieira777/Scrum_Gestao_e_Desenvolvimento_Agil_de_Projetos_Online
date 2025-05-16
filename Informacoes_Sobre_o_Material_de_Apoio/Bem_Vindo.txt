@@ -1,0 +1,34 @@
+Apresentação
+
+Bem-vindo!
+
+É um prazer tê-lo como aluno do nosso curso online Scrum - Gestão e Desenvolvimento Ágil de Projetos. Este curso é ideal
+para você que deseja aperfeiçoar seu trabalho e o da sua equipe através da implementação da metologia Scrum para gestão
+e desenvolvimento ágil de softwares.
+
+Desenvolvedores e testers aprenderão a se auto-organizar, realizar estimativas mais assertivas e entender a importância
+de se tornarem multidisciplinares a fim de alcançar a meta definidas por eles para as entregas do projeto.
+
+Analistas de negócios e gerentes de projeto aprenderão a definir a estratégia do produto a cada release e priorizar os
+itens a serem desenvolvidos, garantindo que os itens de maior valor de negócio estejam sempre sendo entregues
+antecipadamente. Aprenderão a gerar especificações mais claras e objetivas, além de se relacionar melhor com a equipe de
+desenvolvimento e seus clientes, entendendo melhor seus anseios e necessidades.
+
+Coordenadores e gerentes de TI entenderão os conceitos do Scrum e técnicas de implantação, a fim de garantir que essa
+metodologia seja aplicada e disseminada da melhor forma possível dentro da sua equipe ou empresa. Bom aprendizado!
+
+Bom aprendizado!
+
+
+Como estudar?
+
+Assista! -> Pratique! -> Material de Apoio
+
+
+Este curso conta com:
+
+Videoaulas sobre os assuntos que você precisa saber neste curso de gestão e desenvolvimento ágil de projetos com Scrum.
+
+Exercícios para você pôr à prova o que aprendeu.
+
+Material de apoio para você testar os exemplos das videoaulas.
