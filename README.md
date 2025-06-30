@@ -8,5 +8,6 @@
 - [Aula 03 - O Product Backlog](https://github.com/romulovieira777/Scrum_Gestao_e_Desenvolvimento_Agil_de_Projetos_Online/tree/main/Aula_03_O_Product_Backlog)
 - [Aula 04 - Eventos Scrum, Controle e Ferramentas](https://github.com/romulovieira777/Scrum_Gestao_e_Desenvolvimento_Agil_de_Projetos_Online/tree/main/Aula_04_Eventos_Scrum_Controle_e_Ferramentas)
 - [Aula 05 - Certificações Scrum](https://github.com/romulovieira777/Scrum_Gestao_e_Desenvolvimento_Agil_de_Projetos_Online/tree/main/Aula_05_Certificacoes_Scrum)
+- [Teste seus Conhecimentos]()
 
 Link para o curso: [Impacta](https://www.impacta.com.br/cursos/scrum-gestao-e-desenvolvimento-agil-de-projetos-online)
